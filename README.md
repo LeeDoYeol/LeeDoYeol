@@ -1,4 +1,4 @@
-[![HelpUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner1-direct.svg)](https://supportukrainenow.org/)
+[![HelpUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
 
 - 👋 Hi, I’m Lee DoYeol
 - 👀 I’m interested in 
